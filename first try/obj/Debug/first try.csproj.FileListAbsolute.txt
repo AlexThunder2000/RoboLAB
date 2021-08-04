@@ -1,0 +1,110 @@
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\first try.exe.config
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\first try.exe
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\first try.pdb
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\first try.csprojAssemblyReference.cache
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\MainWindow.g.cs
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\App.g.cs
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\first try_MarkupCompile.cache
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\first try_MarkupCompile.lref
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\MainWindow.baml
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\first try.g.resources
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\first_try.Properties.Resources.resources
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\first try.csproj.GenerateResource.cache
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\first try.csproj.CoreCompileInputs.cache
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\first try.exe
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\first try.pdb
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\MaterialDesignColors.dll
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\App.baml
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\first try.csproj.CopyComplete
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Google.Apis.Core.dll
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Google.Apis.dll
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Google.Apis.pdb
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Google.Apis.xml
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Google.Apis.Core.xml
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\workday.g.cs
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\workday.baml
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Monday.g.cs
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Monday.baml
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\EntityFramework.dll
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\EntityFramework.xml
+C:\Users\Alex Thunder\source\repos\first try\first try\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Friday.g.cs
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Friday.baml
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Tuesday.g.cs
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Tuesday.baml
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Wednesday.g.cs
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Wednesday.baml
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Saturday.g.cs
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Sunday.g.cs
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Thursday.g.cs
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Saturday.baml
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Sunday.baml
+C:\Users\Alex Thunder\source\repos\first try\first try\obj\Debug\Thursday.baml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\first try.csprojAssemblyReference.cache
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Friday.g.cs
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\MainWindow.g.cs
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Monday.g.cs
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Saturday.g.cs
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Sunday.g.cs
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Thursday.g.cs
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Tuesday.g.cs
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Wednesday.g.cs
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Workday.g.cs
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\App.g.cs
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\first try_MarkupCompile.cache
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\first try_MarkupCompile.lref
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\first try.exe
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\first try.pdb
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\first try.exe.config
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\first try.exe
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\first try.pdb
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\EntityFramework.dll
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Google.Apis.Core.dll
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Google.Apis.dll
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\MaterialDesignColors.dll
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\EntityFramework.xml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Google.Apis.pdb
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Google.Apis.xml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Google.Apis.Core.xml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\App.baml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Friday.baml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\MainWindow.baml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Monday.baml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Saturday.baml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Sunday.baml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Thursday.baml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Tuesday.baml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Wednesday.baml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\Workday.baml
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\first try.g.resources
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\first_try.Properties.Resources.resources
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\first try.csproj.GenerateResource.cache
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\first try.csproj.CoreCompileInputs.cache
+C:\Users\Alex Thunder\source\repos\first try — попитка 2\first try\obj\Debug\first try.csproj.CopyComplete
